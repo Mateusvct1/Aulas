@@ -1,2 +1,2 @@
 # Aulas
- Aulas do curso de Git e Github
+ Aprendendo a mexer no github desktop
